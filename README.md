@@ -17,7 +17,7 @@ Key Features:
 - Order creation
 - Stripe checkout
 - Stripe webhooks
-- PostgreSQL + Prisma + PlanetScale
+- PostgreSQL + Prisma
 
 ### Prerequisites
 
